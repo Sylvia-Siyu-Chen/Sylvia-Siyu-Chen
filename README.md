@@ -22,3 +22,5 @@ My name is Sylvia Chen, currently a senior student @ New York University majorin
 - 💬 Interested in **full-stack engineering**, **data management & analysis**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
+
