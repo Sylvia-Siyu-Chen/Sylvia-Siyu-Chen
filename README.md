@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sylvia Chen, currently a senior student @ New York University majoring in **Computer Science**, double minoring in **Business Studies & Math**
+My name is Sylvia Chen, currently a senior student @[New York University](https://www.nyu.edu/) majoring in **Computer Science**, double minoring in **Business Studies & Math**
 
 - 🔭 I’m currently working on a web-baed spotify music sharing platform: [wschowa-uniform](https://github.com/Sylvia-Siyu-Chen/project-setup-wschowa-uniform)
 - 📫 How to reach me: sylvia.chen@nyu.edu
@@ -25,3 +25,4 @@ My name is Sylvia Chen, currently a senior student @ New York University majorin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/output/github-contribution-grid-snake.svg">
