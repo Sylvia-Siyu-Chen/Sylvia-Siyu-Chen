@@ -20,7 +20,7 @@ My name is Sylvia Chen, currently a senior student @[New York University](https:
 - 🔭 I’m currently working on a web-baed spotify music sharing platform: [wschowa-uniform](https://github.com/Sylvia-Siyu-Chen/project-setup-wschowa-uniform)
 - 📫 How to reach me: sylvia.chen@nyu.edu
 - 💬 Interested in **full-stack engineering**, **data management & analysis**
-- 👤 learn more about me [here](https://www.linkedin.com/in/siyu-sylvia-chen-9438361b4/)
+- 👤 learn more about me [here](https://www.sylviachen.me)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
