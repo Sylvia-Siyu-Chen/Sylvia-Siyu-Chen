@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sylvia Chen, currently a senior student @[New York University](https://www.nyu.edu/) majoring in **Computer Science**, double minoring in **Business Studies & Math**
+My name is Sylvia Chen, currently a student @[New York University](https://www.nyu.edu/) majoring in **Computer Science**, double minoring in **Business Studies & Math**
 
-- 🔭 I’m currently working on a web-baed spotify music sharing platform: [wschowa-uniform](https://github.com/Sylvia-Siyu-Chen/project-setup-wschowa-uniform)
+- 🔭 I’m currently working in a team of four on an auto-complete reaserch using N-gram language model: [NLP-auto-complete](https://github.com/Sylvia-Siyu-Chen/NLP-auto-complete)
 - 📫 How to reach me: sylvia.chen@nyu.edu
-- 💬 Interested in **full-stack engineering**, **data management & analysis**
-- 👤 learn more about me [here](https://www.sylviachen.me)
+- 💬 Interested in **full-stack engineering**
+- 👤 learn more about me [here](https://www.sylviachen.me)  (_click if you wanna see some cute cat pics_)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
