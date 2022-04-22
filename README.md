@@ -66,10 +66,10 @@ My name is Sylvia Chen, currently a student @[New York University](https://www.n
   <img src="https://github-readme-stats.vercel.app/api?username=sylvia-siyu-chen&theme=prussian">
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylvia-siyu-chen&theme=nord_bright">
   </div>
-
+ -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvia-Siyu-Chen)](https://github.com/anuraghazra/github-readme-stats)
  -->
