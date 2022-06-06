@@ -26,7 +26,7 @@ My name is Sylvia Chen, currently a student @[New York University](https://www.n
 
 - 🔭 I’m currently working on a next-word prediction research of n-gram performance analysis: [NLP-auto-complete](https://github.com/Sylvia-Siyu-Chen/NLP-auto-complete)
 - 📫 How to reach me: sylvia.chen@nyu.edu
-- 💬 Interested in **full-stack engineering**
+- 💬 Interested in **full-stack engineering**,**natural language processing**, and **mobile development**
 - 🐱 Fun fact: my [cat](https://www.sylviachen.me/cat) does most of the coding; her favorite languages are Java and Python 
 - 👤 learn more about me [here](https://www.sylviachen.me)  (_click if you wanna see some cute cat pics_)  
 
