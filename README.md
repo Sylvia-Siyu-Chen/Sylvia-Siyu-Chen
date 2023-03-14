@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Sylvia Chen, currently working at Amazon AWS as a software development engineer in Seattle 🍌
 
-My name is Sylvia Chen, currently a student @[New York University](https://www.nyu.edu/) majoring in **Computer Science**, double minoring in **Business Studies & Math**
-
-- 🔭 I’m currently working on a next-word prediction research of n-gram performance analysis: [NLP-auto-complete](https://github.com/Sylvia-Siyu-Chen/NLP-auto-complete)
 - 📫 How to reach me: sylvia.chen@nyu.edu
-- 💬 Interested in **full-stack engineering**,**natural language processing**, and **mobile development**
-- 🐱 Fun fact: my [cat](https://www.sylviachen.me/cat) does most of the coding; her favorite languages are Java and Python 
+- 💬 Interested in **full-stack engineering**,**natural language processing**, and **distributed storage**
+- 🐱 Fun fact: my [cat](https://www.sylviachen.me/cat) does most of the coding; her favorite languages are Java and Python (she is learning C++) 
 - 👤 learn more about me [here](https://www.sylviachen.me)  (_click if you wanna see some cute cat pics_)  
 
 - ---
